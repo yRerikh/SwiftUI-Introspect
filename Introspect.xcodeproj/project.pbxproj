@@ -781,6 +781,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.siteline.Introspect;
 				PRODUCT_NAME = Introspect;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -809,6 +810,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.siteline.Introspect;
 				PRODUCT_NAME = Introspect;
 				PROVISIONING_PROFILE_SPECIFIER = "";
